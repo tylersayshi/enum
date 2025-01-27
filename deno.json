@@ -1,7 +1,13 @@
 {
   "name": "@tyler/enum",
   "description": "Replacement for typescript enums",
-  "version": "0.2.2",
+  "version": "0.2.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylersayshi/enum.git"
+  },
+  "keywords": ["enum", "typescript"],
+  "author": "tyler",
   "license": "MIT",
   "exports": "./index.ts",
   "tasks": {},
