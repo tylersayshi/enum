@@ -27,4 +27,8 @@ console.log(animals.bird); // bird
 
 ## Try it yourself
 
-[Playground Link](https://tsplay.dev/WzdbQN)
+[Playground Link](https://tsplay.dev/w6Jbyw)
+
+If you're looking for type errors on comparisons between differently named enums:
+
+[Link to example with branded types](https://tsplay.dev/mMeq6m)
