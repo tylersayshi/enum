@@ -27,4 +27,4 @@ console.log(animals.bird); // bird
 
 ## Try it yourself
 
-[Playground Link](https://tsplay.dev/NajPpm)
+[Playground Link](https://tsplay.dev/WzdbQN)
