@@ -11,7 +11,7 @@ I've written this library to give the feel of `enum`s, but in a way that doesn't
 ## Usage
 
 ```ts
-import { numEnum, stringEnum } from "https://deno.land/x/enum@0.1.0/main.ts";
+import { numEnum, stringEnum } from "@tyler/enum";
 
 const colors = numEnum(["red", "green", "blue"]);
 const animals = stringEnum(["cat", "dog", "bird"]);
