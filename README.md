@@ -24,3 +24,7 @@ console.log(animals.cat); // cat
 console.log(animals.dog); // dog
 console.log(animals.bird); // bird
 ```
+
+## Try it yourself
+
+[Playground Link](https://tsplay.dev/NajPpm)
