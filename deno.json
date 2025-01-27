@@ -1,6 +1,7 @@
 {
   "name": "@tyler/enum",
-  "version": "0.2.0",
+  "description": "Replacement for typescript enums",
+  "version": "0.2.1",
   "license": "MIT",
   "exports": "./index.ts",
   "tasks": {},
