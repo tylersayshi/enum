@@ -8,6 +8,13 @@ Deno.test(function testNumEnum() {
   assertEquals(colors.blue, 2);
 });
 
+Deno.test(function testNumEnum() {
+  const colors = numEnum(["one", "one"]);
+
+  // @ts-expect-error cannot assign to never
+  const _foo: typeof colors = 0;
+});
+
 Deno.test(function testStringEnum() {
   const animals = stringEnum(["cat", "dog", "bird"]);
   assertEquals(animals.cat, "cat");
